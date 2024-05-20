@@ -29,6 +29,20 @@ pip install -r requirements.txt
 ### Evaluation
 See `code/run.sh` for commands for evaluation.
 
+## Citation
+Welcome to cite our work if it helps.
+```
+@misc{xu2024spor,
+      title={SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation}, 
+      author={Ziyao Xu and Houfeng Wang},
+      year={2024},
+      eprint={2405.10650},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 ## Acknowledgements
 
 * The code of PARENT metric is based on [KaijuML/parent](https://github.com/KaijuML/parent).
