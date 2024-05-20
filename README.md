@@ -1,5 +1,5 @@
 # SPOR
-Dataset and code for paper "SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation" 
+Dataset and code for paper [SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation](https://arxiv.org/abs/2405.10650).
 
 ## Dataset
 The datasets are available as `dataset.jsonl` files in `dataset_webnlg` and `dataset_e2e`. The fields included in the file are:
