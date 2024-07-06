@@ -26,8 +26,8 @@ pip install -r requirements.txt
 - See `code/construction` for the specific code for dataset construction.
 - If you want to reproduce the construction process, first delete the existing dataset files. 
 
-### Evaluation
-See `code/run.sh` for commands for evaluation.
+### Training and Evaluation
+See `code/run.sh` for commands for training and evaluation.
 
 ## Citation
 Welcome to cite our work if it helps.
