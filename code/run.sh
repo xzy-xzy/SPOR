@@ -4,7 +4,7 @@ model="t5-large"  # model evaluated
 # The model name defaults to the repository name on HuggingFace.
 # If you want to use a local model, specify the root directory of the local model with --model_folder
 # and specify the folder of the local model with --model.
-# E.g., to use model in "../../cache/t5-large", specify "--model_folder ../../cache/ ---model t5-large".
+# E.g., to use model in "../../cache/t5-large", specify "--model_folder ../../cache/ --model t5-large".
 
 # systematicity
 sys="atom"  # atom or combination
