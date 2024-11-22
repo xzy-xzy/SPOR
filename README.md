@@ -32,21 +32,14 @@ See `code/run.sh` for commands for training and evaluation.
 ## Citation
 Welcome to cite our work if it helps.
 ```
-@inproceedings{xu-wang-2024-spor,
-    title = "{SPOR}: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation",
-    author = "Xu, Ziyao  and
-      Wang, Houfeng",
-    editor = "Ku, Lun-Wei  and
-      Martins, Andre  and
-      Srikumar, Vivek",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = aug,
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.acl-long.36",
-    doi = "10.18653/v1/2024.acl-long.36",
-    pages = "604--621"
+@misc{xu2024sporcomprehensivepracticalevaluation,
+      title={SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation}, 
+      author={Ziyao Xu and Houfeng Wang},
+      year={2024},
+      eprint={2405.10650},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2405.10650}, 
 }
 ```
 
